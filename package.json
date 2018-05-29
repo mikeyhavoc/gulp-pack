@@ -1,0 +1,23 @@
+{
+  "name": "gulp-pack",
+  "version": "1.0.0",
+  "description": "gulp setup",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyhavoc/gulp-pack.git"
+  },
+  "keywords": [
+    "gulp",
+    "setup"
+  ],
+  "author": "Michael Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeyhavoc/gulp-pack/issues"
+  },
+  "homepage": "https://github.com/mikeyhavoc/gulp-pack#readme"
+}
