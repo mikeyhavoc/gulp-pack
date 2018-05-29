@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mikeyhavoc/gulp-pack/issues"
   },
-  "homepage": "https://github.com/mikeyhavoc/gulp-pack#readme"
+  "homepage": "https://github.com/mikeyhavoc/gulp-pack#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
 }
