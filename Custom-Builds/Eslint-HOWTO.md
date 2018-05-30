@@ -32,7 +32,7 @@ Everything is pluggable:
  - `"error"` or `2` - turn the rule on as an error (exit code 1 when triggered)
  
  so to change one of of my rules you could change <br>
- `"prefer-template": "warning"` -> warns when not using template literals. alter to <br>
+ `"prefer-template": "warn"` -> warns when not using template literals. alter to <br>
  `"prefer-template": "error"` -> now will error and exit code 1 when it hits somewhere
   should be a template literal but is not.
   
