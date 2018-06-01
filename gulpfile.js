@@ -1,6 +1,6 @@
 const gulp = require('gulp');
 
 
-gulp.task('hi'), () => {
+gulp.task('hi', () => {
   console.log('hello');
-};
+});
