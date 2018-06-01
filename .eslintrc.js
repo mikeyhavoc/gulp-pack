@@ -33,7 +33,8 @@ module.exports = {
      "arrow-body-style": ["error", "as-needed"], // curlys {} only when needed.
      "no-duplicate-imports": ["error", {includeExports: true}],
      "no-var": "error",
-     "prefer-template": "warn"
+     "prefer-template": "warn",
+     "global-require": "error"
    }
 
 };
