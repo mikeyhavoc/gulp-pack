@@ -19,6 +19,10 @@ const paths = {
   pages: {
     src: 'src/html/**/*.html',
     dest: 'dest/html/'
+  },
+  index: {
+    src: 'src/**/*.html',
+    dest: 'dest/'
   }
 };
 
