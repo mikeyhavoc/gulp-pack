@@ -15,7 +15,7 @@ module.exports = {
      "guard-for-in": "error",
      "no-alert": "warn", // "error" in production
      "no-fallthrough": "error",
-     "no-floating-deciaml": "error",
+     "no-floating-decimal": "error",
      "no-return-assign": "error",
      "yoda": "error",
      "strict": ["error", "function"],
